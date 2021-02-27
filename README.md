@@ -20,3 +20,10 @@ Its purpose is to simply return the information (name, description) in the calen
 - [ ] Calendar
 
 _More features will be added as updates are released. (^-^)_
+
+# The different stages of design
+* ## Step1
+  _In Step 1 we will first design everything related to Devise (User function CRUD etc..)._
+  - The pages
+  - Roads
+  - The accesses ... etc.
