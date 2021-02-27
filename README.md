@@ -9,7 +9,6 @@ Its purpose is to simply return the information (name, description) in the calen
     - System dependencies : Ubuntu 16.04 LTS
     - Database creation : postgresql
 
-
 # EventCalendar
 * ## Overview       
   - Events Dashboard            
